@@ -1,0 +1,22 @@
+*{
+    background-color: black;
+    color: azure;
+}
+.red{
+    color: brown;
+}
+hr{
+
+    height: 2px; 
+    background-color: red; 
+    border: none; 
+}
+
+.button{
+    border-radius: 4px;
+    background-color: red;
+    height: 40px;
+    width: 212px;
+    float: right;
+
+}
