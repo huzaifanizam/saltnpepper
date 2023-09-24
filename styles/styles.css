@@ -2,6 +2,69 @@
     background-color: black;
     color: azure;
 }
+
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.navButtons{
+margin-top: 12px;
+}
+
+.BlackButton{
+    color: white;
+    border: none;
+    font-size: 16px;
+    font-weight: 400;
+    height: 18px;
+}
+
+.BlackOrderNow{
+    color: white;
+    font-size: 14px;
+    font-weight: 400;
+    border-color: white;
+    border-radius: 22px;
+    height: 40px;
+    padding: 11px;
+}
+
+.OrderNow{
+    color: white;
+    font-size: 14px;
+    font-weight: 400;
+    border: none;
+    background-color: red;
+    border-radius: 22px;
+    height: 40px;
+    padding: 11px;
+    padding-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .red{
     color: brown;
 }
